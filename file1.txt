@@ -1,1 +1,2 @@
-welcome to the git trainingadded second line
+:wq
+welcome to the git trainingadded second line
