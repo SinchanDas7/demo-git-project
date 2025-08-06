@@ -3,3 +3,5 @@ welcome to the git trainingadded second line
 Wrong line
 Wrong line
 added in feature branch
+changes made by Sinchan
+
